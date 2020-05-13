@@ -1,0 +1,18 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF2\TheMoltenCore\MoltenCoreClassLibrary\bin\Debug\MoltenCoreClassLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF2\TheMoltenCore\MoltenCoreClassLibrary\bin\Debug\MoltenCoreClassLibrary.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF2\TheMoltenCore\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF2\TheMoltenCore\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF2\TheMoltenCore\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF2\TheMoltenCore\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.pdb
+C:\Users\jgrif\Desktop\TheMoltenCore\MoltenCoreClassLibrary\bin\Debug\MoltenCoreClassLibrary.dll
+C:\Users\jgrif\Desktop\TheMoltenCore\MoltenCoreClassLibrary\bin\Debug\MoltenCoreClassLibrary.pdb
+C:\Users\jgrif\Desktop\TheMoltenCore\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.csprojAssemblyReference.cache
+C:\Users\jgrif\Desktop\TheMoltenCore\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jgrif\Desktop\TheMoltenCore\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.dll
+C:\Users\jgrif\Desktop\TheMoltenCore\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.pdb
+C:\Users\Student\Desktop\TheMoltenCore - Copy\MoltenCoreClassLibrary\bin\Debug\MoltenCoreClassLibrary.dll
+C:\Users\Student\Desktop\TheMoltenCore - Copy\MoltenCoreClassLibrary\bin\Debug\MoltenCoreClassLibrary.pdb
+C:\Users\Student\Desktop\TheMoltenCore - Copy\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\TheMoltenCore - Copy\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TheMoltenCore - Copy\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.dll
+C:\Users\Student\Desktop\TheMoltenCore - Copy\MoltenCoreClassLibrary\obj\Debug\MoltenCoreClassLibrary.pdb
